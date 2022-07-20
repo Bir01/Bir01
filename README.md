@@ -9,8 +9,7 @@
 ## 👨👩 Social
 
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:katarbir@gmail.com)
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/birg%C3%BCl-a-868aa216a/)
-
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/birg%C3%BCl-a-868aa216a/)
 [![website](https://img.shields.io/badge/%20-kaggle-blue?&style=for-the-badge&logoColor=white)](https://www.kaggle.com/birgl01)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bir01" alt="Bir01" /> </p>
 
